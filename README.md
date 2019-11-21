@@ -1,2 +1,3 @@
 # STAT442.0
-Updated version
+For school projects in STAT 442 - Exploratory Data Analysis
+
